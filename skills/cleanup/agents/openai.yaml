@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cleanup"
+  short_description: "Clean project and system development leftovers"
+  default_prompt: "Use $cleanup to clean up unused development resources and report measured results."
